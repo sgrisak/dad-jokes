@@ -10,4 +10,4 @@ A Dad Joke generator
 
 ## Demo
 
-🔗 [View Live Demo](https://sgrisak.github.io/dad-joke/)
+🔗 [View Live Demo](https://sgrisak.github.io/dad-jokes/)
